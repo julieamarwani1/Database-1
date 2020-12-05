@@ -1,5 +1,5 @@
 # Database-1
-Project in Database Design I (1DL301) Fall 2020, Period 2
+Project in Database Design I 
 
 The project gives you the opportunity to practice a relational database design process from A to Z, from reading the customer specification, which might be redundant, vague or even inconsistent; to conceptual modeling using ER diagrams; to creating, populating and querying the database in an RDBMS; to writing applications accessing
 and modifying the stored data.
